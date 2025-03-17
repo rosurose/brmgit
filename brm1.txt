@@ -1,1 +1,2 @@
 it contains 6 modules
+and they are customer,supplier,order,inventory and hr managements
